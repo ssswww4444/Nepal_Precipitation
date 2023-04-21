@@ -1,4 +1,5 @@
 # https://coastwatch.pfeg.noaa.gov/erddap/griddap/documentation.html
+# https://coastwatch.pfeg.noaa.gov/erddap/griddap/chirps20GlobalDailyP05.html
 
 stations <- read.csv("../stations.csv")
 
